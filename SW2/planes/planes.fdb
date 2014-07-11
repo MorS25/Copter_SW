@@ -1,0 +1,20 @@
+#  Это файл экспорта базы режимов резания FeatureCAM
+#  Деталь:	planes
+#  Дата:	2 Липень 2014 р. 11:50:06
+#  
+#  Имя набора	my
+#  Экспорт из версии 20.9.0.27
+#  Не изменяйте строки ID группы режимов резания
+#  Это текстовый файл, разделенный табуляцией, который можно импортировать в любую
+# электронную таблицу или базу данных или назад в FeatureCAM.
+#
+
+_единицы	ММ
+
+mill_feed_speed_values
+stock_material	tool_material	tool_coating	hard_index	hardness	sp_profile_rough	fd_profile_rough	sp_profile_finish	fd_profile_finish	sp_slot_rough	fd_slot_rough	sp_slot_finish	fd_slot_finish	sp_face_rough	fd_face_rough	sp_face_finish	fd_face_finish	sp_plunge_rough	fd_plunge_rough
+ПЛАСТИК	HSS	BRIGHT	1	627	121.92	0.2	195.07	0.12	81.686	0.134	130.7	0.0804	195.07	0.2	312.12	0.12	0	0	
+
+drill_feed_speed_values
+stock_material	tool_material	tool_coating	hard_index	hardness	sp_drill	fd_drill
+ПЛАСТИК	HSS	BRIGHT	1	627	130.759	0.3	
