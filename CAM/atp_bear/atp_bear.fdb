@@ -1,0 +1,20 @@
+#  Это файл экспорта базы режимов резания FeatureCAM
+#  Деталь:	atp_bear
+#  Дата:	12 Липень 2014 р. 21:37:33
+#  
+#  Имя набора	TP
+#  Экспорт из версии 20.9.0.27
+#  Не изменяйте строки ID группы режимов резания
+#  Это текстовый файл, разделенный табуляцией, который можно импортировать в любую
+# электронную таблицу или базу данных или назад в FeatureCAM.
+#
+
+_единицы	ММ
+
+mill_feed_speed_values
+stock_material	tool_material	tool_coating	hard_index	hardness	sp_profile_rough	fd_profile_rough	sp_profile_finish	fd_profile_finish	sp_slot_rough	fd_slot_rough	sp_slot_finish	fd_slot_finish	sp_face_rough	fd_face_rough	sp_face_finish	fd_face_finish	sp_plunge_rough	fd_plunge_rough
+АЛЮМИНИЙ	CARBIDE	BRIGHT	1	627	594.36	0.2	914.4	0.12	398.22	0.134	612.65	0.0804	950.98	0.2	1463	0.12	725.42	0.14	
+
+drill_feed_speed_values
+stock_material	tool_material	tool_coating	hard_index	hardness	sp_drill	fd_drill
+АЛЮМИНИЙ	CARBIDE	BRIGHT	1	627	213.36	0.3	

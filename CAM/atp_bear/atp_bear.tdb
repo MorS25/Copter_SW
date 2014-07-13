@@ -1,0 +1,15 @@
+#  Ёто файл экспорта базы инструмента FeatureCAM.
+#  ƒеталь:	atp_bear
+#  ƒата:	12 Ћипень 2014 р. 21:37:33
+#  
+#  »м€ набора	TP
+#  Ёкспорт из версии 20.9.0.27
+#  Ќе измен€йте строки ID группы инструментов
+#  Ёто текстовый файл, разделенный табул€цией, который можно импортировать в любую
+# электронную таблицу или базу данных или назад в FeatureCAM.
+#
+
+
+Tool group	End Mill
+name	material	measure	tool_slot	dia_comp	len_comp	tool_id	comment	speed_over	feed_over	exposed_len	finish_tool	tool_rotary	coolant	finish	diameter	shank_diameter	cutter_length	overall_length	end_radius	taper	tool_end	cutting	flute_angle	number_flutes	diameter_at_bottom	mill_hand	full_cutter_len	end_rad_off_x	end_rad_off_y	shank_lower_dia	shank_lower_height	shank_taper_height	max_doc	max_stepover	ramp_angle
+AM1LX3.2.512	CARBIDE	MM	0	0	0			100.000000	100.000000	17.500000	0		No Override	BRIGHT	2.500000	3.150000	11.000000	38.750000	0.000000	0.000000	SINGLE	CENTER	STANDARD	1	0	RIGHT	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	
