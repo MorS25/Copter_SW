@@ -1,0 +1,15 @@
+#  Это файл экспорта базы инструмента FeatureCAM.
+#  Деталь:	planes
+#  Дата:	2 Липень 2014 р. 11:50:06
+#  
+#  Имя набора	my
+#  Экспорт из версии 20.9.0.27
+#  Не изменяйте строки ID группы инструментов
+#  Это текстовый файл, разделенный табуляцией, который можно импортировать в любую
+# электронную таблицу или базу данных или назад в FeatureCAM.
+#
+
+
+Tool group	End Mill
+name	material	measure	tool_slot	dia_comp	len_comp	tool_id	comment	speed_over	feed_over	exposed_len	finish_tool	tool_rotary	coolant	finish	diameter	shank_diameter	cutter_length	overall_length	end_radius	taper	tool_end	cutting	flute_angle	number_flutes	diameter_at_bottom	mill_hand	full_cutter_len	end_rad_off_x	end_rad_off_y	shank_lower_dia	shank_lower_height	shank_taper_height	max_doc	max_stepover	ramp_angle
+Фреза 1 мм	HSS	MM	0	0	0			100.000000	100.000000	8.300000	0		No Override	BRIGHT	1.000000	3.000000	3.000000	38.000000	0.000000	0.000000	SINGLE	CENTER	STANDARD	1	0	RIGHT	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	
